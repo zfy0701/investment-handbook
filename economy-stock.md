@@ -1,0 +1,28 @@
+- 美国
+  - 美国2020可能的根本性经济问题(debt buyback)
+    - 翟东升：美国股市的泡沫(股市部分从33分钟开始):https://www.youtube.com/watch?v=meE1bKaSI4k
+    - Chamath Palihapitiya: CNBS访谈: https://www.youtube.com/watch?v=NvEWez59fbI
+  - 股市中ETF的危机
+    - Michael Burry: Why index funds are like subprime CODS https://www.bloomberg.com/news/articles/2019-09-04/michael-burry-explains-why-index-funds-are-like-subprime-cdos
+    - 视频解释Michael Burry的文章: https://www.youtube.com/watch?v=TTzXLIT__6U
+  - 美联储，量化宽松及通货膨胀
+    - TODO
+  - 黄金投资
+    - 金价为什么go up and down: https://www.youtube.com/watch?v=Xg0uxZRbJ3E
+    - GLD的风险：https://www.youtube.com/watch?v=bqoQ9DxMrw0
+  - REITS投资
+    - TODO
+  - 负油价
+    - 负油价和USO: https://www.youtube.com/watch?v=KpRvuoxUsoQ
+    - TAS指令导致原油宝穿仓: https://www.zhihu.com/question/389733485/answer/1173734803
+  - 08年经济危机
+    - 2008年金融危机的形成、泡沫和复苏全过程: https://m.huxiu.com/article/281200.html
+    - 电影The Big Short: https://www.imdb.com/title/tt1596363/ https://www.youtube.com/watch?v=Zpqf1dR-B_8
+    - 电影Too Big to Fall: https://www.imdb.com/title/tt1742683/ https://www.youtube.com/watch?v=FMz_UwyznBo
+  - 美国1930年代大萧条浅析与启示: http://www.csrc.gov.cn/pub/newsite/yjzx/yjbg/201511/P020151106625907031070.pdf
+- 中国
+  - 大基建
+    - 从货币基础概念到34万亿大基建及通货膨胀: https://www.youtube.com/watch?v=bl5GFzte2SQ
+    - 
+ - 4万亿建设
+ - 央行数字货币
