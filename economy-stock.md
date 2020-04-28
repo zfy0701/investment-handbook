@@ -6,12 +6,13 @@
     - Michael Burry: Why index funds are like subprime CODS https://www.bloomberg.com/news/articles/2019-09-04/michael-burry-explains-why-index-funds-are-like-subprime-cdos
     - 视频解释Michael Burry的文章: https://www.youtube.com/watch?v=TTzXLIT__6U
   - 美联储，量化宽松及通货膨胀
+    - Peter Schiff: Is He Right Or Wrong About INFLATION: https://www.youtube.com/watch?v=ONiz3DtLCI8
     - TODO
   - 黄金投资
     - 金价为什么go up and down: https://www.youtube.com/watch?v=Xg0uxZRbJ3E
     - GLD的风险：https://www.youtube.com/watch?v=bqoQ9DxMrw0
   - REITS投资
-    - TODO
+    - 关于房产股REITS的基本概念，运营模式，优点与缺点: https://www.youtube.com/watch?v=Zq5ASRQUFW8
   - 负油价
     - 负油价和USO: https://www.youtube.com/watch?v=KpRvuoxUsoQ
     - TAS指令导致原油宝穿仓: https://www.zhihu.com/question/389733485/answer/1173734803
