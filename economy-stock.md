@@ -20,6 +20,9 @@
     - 电影The Big Short: https://www.imdb.com/title/tt1596363/ https://www.youtube.com/watch?v=Zpqf1dR-B_8
     - 电影Too Big to Fall: https://www.imdb.com/title/tt1742683/ https://www.youtube.com/watch?v=FMz_UwyznBo
   - 美国1930年代大萧条浅析与启示: http://www.csrc.gov.cn/pub/newsite/yjzx/yjbg/201511/P020151106625907031070.pdf
+  - 期权：
+    - 用Collar锁住收益：https://www.investopedia.com/articles/active-trading/011515/how-protective-collar-works.asp
+    - TODO
 - 中国
   - 大基建
     - 从货币基础概念到34万亿大基建及通货膨胀: https://www.youtube.com/watch?v=bl5GFzte2SQ
