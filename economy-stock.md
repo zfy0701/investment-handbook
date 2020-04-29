@@ -13,6 +13,7 @@
     - GLD的风险：https://www.youtube.com/watch?v=bqoQ9DxMrw0
   - REITS投资
     - 关于房产股REITS的基本概念，运营模式，优点与缺点: https://www.youtube.com/watch?v=Zq5ASRQUFW8
+    - 投資REIT要注意什麼: https://www.youtube.com/watch?v=QvB2OUzzlOY
   - 负油价
     - 负油价和USO: https://www.youtube.com/watch?v=KpRvuoxUsoQ
     - TAS指令导致原油宝穿仓: https://www.zhihu.com/question/389733485/answer/1173734803
