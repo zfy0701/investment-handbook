@@ -25,6 +25,7 @@
   - 期权：
     - 用Collar锁住收益：https://www.investopedia.com/articles/active-trading/011515/how-protective-collar-works.asp
     - TODO
+  - 什么是alpha, beta: https://www.zhihu.com/question/34074483
 - 中国
   - 大基建
     - 从货币基础概念到34万亿大基建及通货膨胀: https://www.youtube.com/watch?v=bl5GFzte2SQ
