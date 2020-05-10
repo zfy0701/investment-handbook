@@ -11,6 +11,8 @@
   - 黄金投资
     - 金价为什么go up and down: https://www.youtube.com/watch?v=Xg0uxZRbJ3E
     - GLD的风险：https://www.youtube.com/watch?v=bqoQ9DxMrw0
+  - 加密货币
+    - GBTC: https://news.bitcoin.com/bitcoin-trust-gbtc-premium/
   - REITS投资
     - 关于房产股REITS的基本概念，运营模式，优点与缺点: https://www.youtube.com/watch?v=Zq5ASRQUFW8
     - 投資REIT要注意什麼: https://www.youtube.com/watch?v=QvB2OUzzlOY
